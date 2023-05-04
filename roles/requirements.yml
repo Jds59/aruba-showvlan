@@ -1,0 +1,4 @@
+---
+collections:
+  - name: arubanetworks.aoscx
+  - name: arubanetworks.aos_switch
